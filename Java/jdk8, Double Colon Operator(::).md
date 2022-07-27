@@ -24,5 +24,6 @@
       for(String s: list) {
         System.out.println(s);
       }
-      list.forEach(System.out::println);
+                                          // System: 클래스 / out: static (객체 타입) 참조 변수 / println: 메서드
+      list.forEach(System.out::println);  // list에 있는 요소를 하나씩 System.out(객체)의 println 메서드에 전달
       ```
