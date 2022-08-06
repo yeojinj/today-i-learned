@@ -15,6 +15,7 @@ Write down what I learned day by day
 9. [Lambda Expression](java/Lambda_Expression.md)
 10. [jdk8, Double Colon Operator(::)](java/jdk8_Double_Colon_Operator(::).md)
 11. [File IO](java/File_IO.md)  
+12. [Singleton Pattern](java/Singleton_Pattern.md)
 
 ### [Summary](java/Summary.md)  
 <br></br>
