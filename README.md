@@ -55,6 +55,6 @@ Write down what I learned day by day
 2. [LinkedList]()
 3. [Array, ArrayList, LinkedList]()
 4. [Stack, Queue]()
-5. [Heap]()
+5. [Heap](data-structure/heap.md)
 6. [Tree](data-structure/tree.md)
 <br></br>
