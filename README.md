@@ -1,8 +1,8 @@
 # Today I Learned (TIL)
 Write down what I learned day by day
 <br></br>
-
-## Java
+## 🎈 Programming
+### 💡 Java
 
 1. [Data Type and Identifier](java/Data_Type_and_Identifier.md)
 2. [Operator](java/Operator.md)
@@ -15,34 +15,45 @@ Write down what I learned day by day
 9. [Lambda Expression](java/Lambda_Expression.md)
 10. [jdk8, Double Colon Operator(::)](java/jdk8_Double_Colon_Operator(::).md)
 11. [File IO](java/File_IO.md)  
-12. [Singleton Pattern](java/Singleton_Pattern.md)
+12. [Singleton Pattern](java/Singleton_Pattern.md)  
 
-### [Summary](java/Summary.md)  
+- [Summary](java/Summary.md)  
 <br></br>
 
-## Problem Solving
+### 💡 Problem Solving (Algorithm)
 
 1. [IO Processing](problem-solving/io-processing.md)
 
 <br></br>
 
-[Web Intro](web/Intro.md)
-## Web(Front)
+### 💡 Web(Front)
+- [Web Intro](web/Intro.md)
 
 <br></br>
 
-## DB
+### 💡 DB
 
 <br></br>
 
-## Web(Back)
+### 💡 Web(Back)
 
 <br></br>
 
-## Framework: Spring
+### 💡 Framework: Spring
 
 <br></br>
 
-## Framework: Vue.js
+### 💡 Framework: Vue.js
 
+<br></br>
+
+## 🎈 CS
+### 💡 Data Structure
+
+1. [Array]()
+2. [LinkedList]()
+3. [Array, ArrayList, LinkedList]()
+4. [Stack, Queue]()
+5. [Heap]()
+6. [Tree]()
 <br></br>
