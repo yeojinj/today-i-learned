@@ -48,7 +48,7 @@
 
   부모 노드의 키 값이 자식 노드의 키 값보다 작거나 같은 완전 이진 트리
 
- <img src="https://t1.daumcdn.net/cfile/tistory/17084F504DA9895214">
+ <img src="https://blog.kakaocdn.net/dn/qIcFn/btqVzRNQ7qx/Cp2ETZYUkpEqClELWCSVKK/img.png">
 
 <br>
 
