@@ -51,7 +51,7 @@ Write down what I learned day by day
 ###### [참고](https://github.com/gyoogle/tech-interview-for-developer)
 ### 💡 Data Structure
 
-1. [Array]()
+1. [Array](data-structure/array.md)
 2. [LinkedList]()
 3. [Array, ArrayList, LinkedList]()
 4. [Stack, Queue](data-structure/stack-queue.md)
