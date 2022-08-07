@@ -1,5 +1,7 @@
 # Heap(힙)
 
+<br>
+
 ## 힙이란?
 
 - 완전 이진 트리의 일종
@@ -160,4 +162,4 @@ int delete_max_heap() {
 ## 참고 
 - https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html
 
-<
+<br>
