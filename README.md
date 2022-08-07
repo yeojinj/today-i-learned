@@ -48,6 +48,7 @@ Write down what I learned day by day
 <br></br>
 
 ## 🎈 CS
+###### [참고](https://github.com/gyoogle/tech-interview-for-developer)
 ### 💡 Data Structure
 
 1. [Array]()
@@ -55,5 +56,5 @@ Write down what I learned day by day
 3. [Array, ArrayList, LinkedList]()
 4. [Stack, Queue]()
 5. [Heap]()
-6. [Tree]()
+6. [Tree](data-structure/tree.md)
 <br></br>
