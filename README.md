@@ -1,5 +1,5 @@
-# Today I Learned (TIL)
-Write down what I learned day by day
+# TIL(Today I Learned)
+Write down what I learned
 <br></br>
 ## 🎈 Programming
 ### 💡 Java
