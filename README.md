@@ -8,7 +8,7 @@ Write down what I learned
 1. [Data Type and Identifier](java/Data_Type_and_Identifier.md)
 2. [Operator](java/Operator.md)
 3. [Loop](java/Loop.md)
-4. 배열
+4. [Array](java/Array.md)
 5. [Object](java/Object.md)
 6. 상속
 7. [Polymorphism](java/Polymorphism.md)
