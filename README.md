@@ -24,6 +24,7 @@ Write down what I learned
 ### 💡 Problem Solving (Algorithm)
 
 1. [IO Processing](problem-solving/io-processing.md)
+2. [[구현] Permutation](problem-solving/permutation.java)
 
 <br></br>
 
