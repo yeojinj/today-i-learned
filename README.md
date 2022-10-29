@@ -34,6 +34,7 @@ Write down what I learned
 ### 💡 Web(Front)
 
 - [Web Intro](web/Intro.md)
+- [Summary](web/Summary.md)
 
 <br></br>
 
