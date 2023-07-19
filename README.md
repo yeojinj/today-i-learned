@@ -1,11 +1,13 @@
 # TIL(Today I Learned)
-Write down what I learned
+> Write down what I learned
+
+[👻 Tech Blog](https://yeojinj.tistory.com/)
 
 <br></br>
 ## 🎈 Programming
 ### 💡 Java
 
-##### [Java SE API](https://docs.oracle.com/javase/8/docs/api/)
+&nbsp;&nbsp;&nbsp;&nbsp;[Java SE API](https://docs.oracle.com/javase/8/docs/api/)
 
 1. [Data Type and Identifier](java/Data_Type_and_Identifier.md)
 2. [Operator](java/Operator.md)
@@ -21,6 +23,7 @@ Write down what I learned
 12. [Singleton Pattern](java/Singleton_Pattern.md)  
 
 - [Summary](java/Summary.md)  
+
 <br></br>
 
 ### 💡 Problem Solving (Algorithm)
@@ -31,35 +34,11 @@ Write down what I learned
 
 <br></br>
 
-### 💡 Web(Front)
-
-- [Web Intro](web/Intro.md)
-- [Summary](web/Summary.md)
-
-<br></br>
-
 ### 💡 DB
 
 <br></br>
 
-### 💡 Web(Back)
-
-##### [Java EE API(Servlet)](https://javaee.github.io/javaee-spec/javadocs/)
-
-<br></br>
-
-### 💡 Framework: Spring
-
-##### [Spring API](https://docs.spring.io/spring-framework/docs/current/javadoc-api/)
-
-<br></br>
-
-### 💡 Framework: Vue.js
-
-<br></br>
-
 ## 🎈 CS
-###### [참고](https://github.com/gyoogle/tech-interview-for-developer)
 ### 💡 Data Structure
 
 1. [Array](data-structure/array.md)
@@ -69,3 +48,28 @@ Write down what I learned
 5. [Heap](data-structure/heap.md)
 6. [Tree](data-structure/tree.md)
 <br></br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[참고](https://github.com/gyoogle/tech-interview-for-developer)
+
+<!--
+
+### 💡 Web(Front)
+
+- [Web Intro](web/Intro.md)
+- [Summary](web/Summary.md)
+
+<br></br>
+
+### 💡 Web(Back)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[Java EE API(Servlet)](https://javaee.github.io/javaee-spec/javadocs/)
+
+<br></br>
+
+### 💡 Framework: Spring
+
+&nbsp;&nbsp;&nbsp;&nbsp;[Spring API](https://docs.spring.io/spring-framework/docs/current/javadoc-api/)
+
+<br></br>
+
+-->
