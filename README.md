@@ -4,54 +4,55 @@
 [👻 Tech Blog](https://yeojinj.tistory.com/)
 
 <br></br>
-## 🎈 Programming
-### 💡 Java
+## 🎈 Java
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Java SE API](https://docs.oracle.com/javase/8/docs/api/)
-
-1. [Data Type and Identifier](java/Data_Type_and_Identifier.md)
-2. [Operator](java/Operator.md)
-3. [Loop](java/Loop.md)
-4. [Array](java/Array.md)
-5. [Object](java/Object.md)
-6. 상속
-7. [Polymorphism](java/Polymorphism.md)
-8. [Collection, Generic, Exception](java/Collection_Generic_Exception.md)
-9. [Lambda Expression](java/Lambda_Expression.md)
-10. [jdk8, Double Colon Operator(::)](java/jdk8_Double_Colon_Operator(::).md)
-11. [File IO](java/File_IO.md)  
-12. [Singleton Pattern](java/Singleton_Pattern.md)  
-
+- [Data Type and Identifier](java/Data_Type_and_Identifier.md)
+- [Operator](java/Operator.md)
+- [Loop](java/Loop.md)
+- [Array](java/Array.md)
+- [Object](java/Object.md)
+- [Polymorphism](java/Polymorphism.md)
+- [Collection, Generic, Exception](java/Collection_Generic_Exception.md)
+- [Lambda Expression](java/Lambda_Expression.md)
+- [jdk8, Double Colon Operator(::)](java/jdk8_Double_Colon_Operator(::).md)
+- [File IO](java/File_IO.md)  
+- [Singleton Pattern](java/Singleton_Pattern.md)  
 - [Summary](java/Summary.md)  
 
 <br></br>
 
-### 💡 Problem Solving (Algorithm)
+## 🎈 Algorithm
 
-1. [IO Processing](problem-solving/io-processing.md)
-2. [[구현] Permutation](problem-solving/permutation.java)
-3. [[구현] Combination](problem-solving/combination.java)
+- [IO Processing](problem-solving/io-processing.md)
+- [[구현] Permutation](problem-solving/permutation.java)
+- [[구현] Combination](problem-solving/combination.java)
 
 <br></br>
 
-### 💡 DB
+## 🎈 DB
+### 💡 Redis
 
 <br></br>
 
 ## 🎈 CS
 ### 💡 Data Structure
 
-1. [Array](data-structure/array.md)
-2. [LinkedList]()
-3. [Array, ArrayList, LinkedList]()
-4. [Stack, Queue](data-structure/stack-queue.md)
-5. [Heap](data-structure/heap.md)
-6. [Tree](data-structure/tree.md)
+- [Array](data-structure/array.md)
+- [LinkedList]()
+- [Array, ArrayList, LinkedList]()
+- [Stack, Queue](data-structure/stack-queue.md)
+- [Heap](data-structure/heap.md)
+- [Tree](data-structure/tree.md)
 <br></br>
+
+
+
+
+<!--
 
 &nbsp;&nbsp;&nbsp;&nbsp;[참고](https://github.com/gyoogle/tech-interview-for-developer)
 
-<!--
+&nbsp;&nbsp;&nbsp;&nbsp;[Java SE API](https://docs.oracle.com/javase/8/docs/api/)
 
 ### 💡 Web(Front)
 
